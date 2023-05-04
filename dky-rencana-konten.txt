@@ -3,7 +3,9 @@ rencana konten
 - javascript
   *ES6
   *framework javascript
-- struktur data dasar
+    +angular
+    +react
 - php
+   +laravel
 - interview
 - vlog
